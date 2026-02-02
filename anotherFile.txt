@@ -1,0 +1,1 @@
+Another file from feature 3 in forked repository.
